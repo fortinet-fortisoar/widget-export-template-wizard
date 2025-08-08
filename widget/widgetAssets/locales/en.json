@@ -1,0 +1,10 @@
+{
+    "exportTemplateWizard": {
+        "EDIT_VIEW_SELECT_DESCRIPTION": "Select one or more export templates to define what system content will be included in the export. \n\nFortiSOAR export templates specify the components—such as modules, reports, dashboards, playbooks, connectors, widgets, and admin/security settings—that will be packaged into a ZIP file.",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "Select Export Templates...",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "Save",
+        "EDIT_VIEW_CLOSE_BTN_LABEL": "Close",
+        "VIEW_DEFAULT_SELECT_ITEM": "Select a Template ...",
+        "VIEW_EXPORT_BTN_LABEL": "Edit Export Template"
+    }
+}
