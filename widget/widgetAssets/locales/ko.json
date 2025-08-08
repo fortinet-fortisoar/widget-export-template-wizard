@@ -1,0 +1,10 @@
+{
+    "exportTemplateWizard": {
+        "EDIT_VIEW_SELECT_DESCRIPTION": "하나 이상의 내보내기 템플릿을 선택하여 내보내기에 포함할 시스템 콘텐츠를 정의합니다.\n\nFortiSOAR 내보내기 템플릿은 모듈, 보고서, 대시보드, 플레이북, 커넥터, 위젯, 관리자/보안 설정과 같은 구성 요소를 ZIP 파일로 패키징합니다.",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "내보내기 템플릿 선택...",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "저장",
+        "EDIT_VIEW_CLOSE_BTN_LABEL": "닫기",
+        "VIEW_DEFAULT_SELECT_ITEM": "템플릿 선택...",
+        "VIEW_EXPORT_BTN_LABEL": "내보내기 템플릿 편집"
+    }
+}
