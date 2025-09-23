@@ -12,14 +12,14 @@ Copyright end -->
         </button>
     </div>
     <div class="modal-body">
-        <div class="form-group">
+        <div class="form-group importWiz">
             <div class="padding-20 margin-top-md padding-top-md padding-bottom-md">
                 <p class="font-Size-13 muted">
                     <span
                         data-ng-bind-html="viewWidgetVars.EDIT_VIEW_SELECT_DESCRIPTION | domPurifySanitize"></span>
                 </p>
                 <div class="cs-select">
-                    <ui-select name="select_threat_detection_tools" id="select_threat_detection_tools"
+                    <ui-select name="select_export_template" id="select_export_template"
                         data-ng-model="config.selectedExportTemplates" data-ng-required="true" multiple
                         class="custom-multi-select" append-to-body="false">
                         <ui-select-match placeholder="{{viewWidgetVars.EDIT_VIEW_DEFAULT_SELECT_ITEM}}">{{$item}}

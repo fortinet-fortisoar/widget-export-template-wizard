@@ -1,0 +1,8 @@
+/* Copyright start
+    MIT License
+    Copyright (c) 2025 Fortinet Inc
+Copyright end */
+
+.importWiz .custom-multi-select .ui-select-search {
+    min-width: 50% !important;
+}
