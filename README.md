@@ -1,10 +1,10 @@
-- **Version**: 1.0.0
+- **Version**: 1.1.0
 
 - **Certified**: Yes
 
 - **Publisher**: Fortinet
 
-- **Compatibility**: 7.4.3 and later
+- **Compatibility**: 8.0.0 and later
 
 - **Applicable**: Continuous Delivery solution pack
 

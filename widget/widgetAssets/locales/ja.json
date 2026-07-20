@@ -1,9 +1,12 @@
 {
     "exportTemplateWizard": {
-        "EDIT_VIEW_SELECT_DESCRIPTION": "1つ以上のエクスポートテンプレートを選択して、エクスポートに含めるシステムコンテンツを定義します。\n\nFortiSOARのエクスポートテンプレートは、モジュール、レポート、ダッシュボード、プレイブック、コネクタ、ウィジェット、管理/セキュリティ設定など、ZIPファイルにパッケージされるコンポーネントを指定します。",
-        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "エクスポートテンプレートを選択...",
-        "EDIT_VIEW_SAVE_BTN_LABEL": "保存",
         "EDIT_VIEW_CLOSE_BTN_LABEL": "閉じる",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "エクスポートテンプレートを選択...",
+        "EDIT_VIEW_DEFAULT_SORT": "デフォルトの並び順",
+        "EDIT_VIEW_FILTER_CRITERIA": "フィルター条件",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "保存",
+        "EDIT_VIEW_SELECT_DESCRIPTION": "フィルター条件を使用して必要なエクスポートテンプレートを選択し、表示結果のデフォルトの並び順を設定します。",
+        "EDIT_VIEW_TITLE": "エクスポートテンプレートウィザード編集ビュー",
         "VIEW_DEFAULT_SELECT_ITEM": "テンプレートを選択...",
         "VIEW_EXPORT_BTN_LABEL": "エクスポートテンプレートを編集"
     }
