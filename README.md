@@ -4,9 +4,11 @@
 
 - **Publisher**: Fortinet
 
-- **Compatibility**: 8.0.0 and later
+- **Compatibility**: 8.1.0 and later
 
 - **Applicable**: Continuous Delivery solution pack
+
+- [Release Notes](./release_notes.md)
 
 ## Overview
 
