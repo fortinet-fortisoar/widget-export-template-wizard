@@ -2,11 +2,11 @@
     "name": "exportTemplateWizard",
     "title": "Export Template Wizard",
     "subTitle": "To review and configure FortiSOAR export templates that define what content and settings are saved to source control systems like GitHub",
-    "version": "1.0.0",
-    "published_date": 1753786928,
+    "version": "1.1.0",
+    "published_date": 1784031842,
     "releaseNotes": "unavailable",
     "metadata": {
-        "help_online": "https://github.com/fortinet-fortisoar/widget-export-template-wizard/blob/release/1.0.0/README.md",
+        "help_online": "https://github.com/fortinet-fortisoar/widget-export-template-wizard/blob/release/1.1.0/README.md",
         "description": "To review and configure FortiSOAR export templates that define what content and settings are saved to source control systems like GitHub.",
         "pages": [
             "View Panel"
@@ -14,7 +14,7 @@
         "certified": "Yes",
         "publisher": "Fortinet",
         "compatibility": [
-            "7.5.0"
+            "8.0.0"
         ]
     }
 }

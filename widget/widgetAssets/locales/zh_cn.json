@@ -1,9 +1,12 @@
 {
     "exportTemplateWizard": {
-        "EDIT_VIEW_SELECT_DESCRIPTION": "选择一个或多个导出模板，以定义导出中包含的系统内容。\n\nFortiSOAR 导出模板指定将打包到 ZIP 文件中的组件，如模块、报告、仪表板、剧本、连接器、小部件和管理/安全设置。",
-        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "选择导出模板...",
-        "EDIT_VIEW_SAVE_BTN_LABEL": "保存",
         "EDIT_VIEW_CLOSE_BTN_LABEL": "关闭",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "选择导出模板...",
+        "EDIT_VIEW_DEFAULT_SORT": "默认排序",
+        "EDIT_VIEW_FILTER_CRITERIA": "筛选条件",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "保存",
+        "EDIT_VIEW_SELECT_DESCRIPTION": "使用筛选条件选择所需的导出模板，并配置显示结果的默认排序顺序。",
+        "EDIT_VIEW_TITLE": "导出模板向导编辑视图",
         "VIEW_DEFAULT_SELECT_ITEM": "选择模板...",
         "VIEW_EXPORT_BTN_LABEL": "编辑导出模板"
     }

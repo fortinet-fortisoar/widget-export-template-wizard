@@ -1,0 +1,13 @@
+{
+    "exportTemplateWizard": {
+        "EDIT_VIEW_CLOSE_BTN_LABEL": "關閉",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "選取匯出範本...",
+        "EDIT_VIEW_DEFAULT_SORT": "預設排序",
+        "EDIT_VIEW_FILTER_CRITERIA": "篩選條件",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "儲存",
+        "EDIT_VIEW_SELECT_DESCRIPTION": "使用篩選條件選取所需的匯出範本，並設定顯示結果的預設排序順序。",
+        "EDIT_VIEW_TITLE": "匯出範本精靈編輯檢視",
+        "VIEW_DEFAULT_SELECT_ITEM": "選取範本...",
+        "VIEW_EXPORT_BTN_LABEL": "編輯匯出範本"
+    }
+}

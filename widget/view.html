@@ -1,6 +1,6 @@
 <!-- Copyright start
     MIT License
-    Copyright (c) 2025 Fortinet Inc
+    Copyright (c) 2026 Fortinet Inc
 Copyright end -->
 <div class="widget widget-container chart">
     <div class="display-flex-space-between margin-chart">
@@ -14,13 +14,13 @@ Copyright end -->
                 <select class="form-control" name="selected-template" id="selected-template" style="max-width: 27%;"
                     data-ng-options="template.name for template in exportTemplates track by template.uuid"
                     ng-model="selectedTemplate" ng-change="changeTemplate()" required>
-                    <option value="">{{viewWidgetVars.VIEW_DEFAULT_SELECT_ITEM}}</option>
+                    <option value="">{{'exportTemplateWizard.VIEW_DEFAULT_SELECT_ITEM' | translate}}</option>
                 </select>
             </div>
             <div class="margin-top-md margin-bottom-xlg">
                 <button type="button" class="btn btn-primary btn-sm" data-ng-click="openWizard()"
                     data-ng-disabled="(isTemplateSelected===false)" id="dropdown-export"><i
-                        class="icon icon-dashboard-settings margin-right-sm"></i></span>&nbsp;&nbsp;</span>{{viewWidgetVars.VIEW_EXPORT_BTN_LABEL}}
+                        class="icon icon-dashboard-settings margin-right-sm"></i></span>&nbsp;&nbsp;</span>{{'exportTemplateWizard.VIEW_EXPORT_BTN_LABEL' | translate}}
                 </button>
             </div>
         </div>

@@ -1,0 +1,13 @@
+{
+    "exportTemplateWizard": {
+        "EDIT_VIEW_CLOSE_BTN_LABEL": "Fermer",
+        "EDIT_VIEW_DEFAULT_SELECT_ITEM": "Sélectionner des modèles d'exportation...",
+        "EDIT_VIEW_DEFAULT_SORT": "Tri par défaut",
+        "EDIT_VIEW_FILTER_CRITERIA": "Critères de filtre",
+        "EDIT_VIEW_SAVE_BTN_LABEL": "Enregistrer",
+        "EDIT_VIEW_SELECT_DESCRIPTION": "Utilisez les critères de filtre pour sélectionner les modèles d'exportation requis et configurer l'ordre de tri par défaut des résultats affichés.",
+        "EDIT_VIEW_TITLE": "Vue d'édition de l'assistant des modèles d'exportation",
+        "VIEW_DEFAULT_SELECT_ITEM": "Sélectionner un modèle...",
+        "VIEW_EXPORT_BTN_LABEL": "Modifier le modèle d'exportation"
+    }
+}
